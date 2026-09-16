@@ -2,9 +2,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Tech Stack" />
 </p>
 
 ---
@@ -16,6 +14,7 @@
   <br/><br/>
   <!-- Core Stats Card -->
   <img src="https://vercel.app" alt="Divyesh's Stats" />
+  <br/><br/>
   <!-- Top Languages Card -->
   <img src="https://vercel.app" alt="Top Languages" />
 </div>
