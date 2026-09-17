@@ -28,12 +28,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Divyesh1510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh1510&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-iota-six-58.vercel.app/api?username=Divyesh1510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-iota-six-58.vercel.app/api/top-langs/?username=Divyesh1510&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyesh1510&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyesh1510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
