@@ -38,12 +38,8 @@
 
 ---
 
-### 📈 Activity & Achievements
+### 📈 Activity & Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyesh1510&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyesh1510&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-readme-stats-iota-six-58.vercel.app/api?username=Divyesh1510&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
 </p>
